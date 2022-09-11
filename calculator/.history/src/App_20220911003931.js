@@ -6,7 +6,7 @@ function App() {
     <div className="CalGrid">
       <div className='output'>
         <div className='prevOper'>123-</div>
-        <div className='currOper'>456</div>
+        <div className='currOper'>45688888888888888999999999999999</div>
       </div>
       <button className='wider'>AC</button>
       <button>DEL</button>

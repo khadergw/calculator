@@ -16,17 +16,14 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: space-around;
-  padding: 0.5rem;
-  word-wrap: break-word;
-  word-break: break-all;
 }
 
-.prevOper {
+.output .prevOper {
   color: white;
   font-size: 1rem;
 }
 
-.currOper {
+.output .currOper {
   color: white;
   font-size: 2rem;
 }

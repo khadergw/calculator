@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="CalGrid">
       <div className='output'>
-        <div className='prevOper'>123-</div>
-        <div className='currOper'>456</div>
+        <div className='prevOper'></div>
+        <div className='currOper'></div>
       </div>
       <button className='wider'>AC</button>
       <button>DEL</button>
