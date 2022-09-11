@@ -1,0 +1,6 @@
+.CalGrid {
+  display: grid;
+  margin-top: 3%;
+  grid-template-columns: repeat(5, 6rem);
+  grid-template-rows: minmax(7rem, auto) repeat(5, 6rem);
+}
